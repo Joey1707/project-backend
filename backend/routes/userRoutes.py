@@ -1,4 +1,4 @@
-from api.backend.app import db
+from backend.app import db
 from werkzeug.security import generate_password_hash
 from datetime import datetime
 
